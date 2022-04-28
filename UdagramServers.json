@@ -1,0 +1,11 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdagramProject"
+	},
+
+    {
+        "ParameterKey": "InstanceTypes",
+        "ParameterValue": "t2.micro"
+    }
+]
